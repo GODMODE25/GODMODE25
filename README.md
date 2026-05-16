@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Samuel Musa 👋
 
-<!--
-**GODMODE25/GODMODE25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Computer Engineer | Quant Developer
 
-Here are some ideas to get you started:
+I build:
+- Full-stack web applications
+- Trading systems & automation tools
+- Embedded/electronics projects
+- UI/UX and graphic design projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- JavaScript
+- React
+- Node.js
+- Pine Script
+- C/C++
+- Git & GitHub
+- HTML/CSS
+
+## Currently Learning
+- Advanced backend engineering
+- Quantitative systems
+- AI tools & automation
+
+## Contact
+- LinkedIn: https://linkedin.com/in/godmode26/
+- E-mail: samspacey11@gmail.com
