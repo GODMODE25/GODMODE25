@@ -2,6 +2,7 @@
 
 Software Engineer | Computer Engineering Graduate | Builder of practical systems
 
+
 I focus on building usable software systems, simulations, and tools that solve real problems or demonstrate strong engineering fundamentals.
 
 ---
@@ -33,9 +34,13 @@ https://github.com/godmode25/CCE512-Chess-Website
 
 ## Tech Stack
 
-- Languages: Python, JavaScript (adjust if needed)
-- Concepts: OOP, modular design, algorithmic thinking
-- Tools: Git, GitHub, basic web stack
+•	Languages: Python, JavaScript, SQL, MQL4/5, HTML5, CSS3, Tailwind, Typescript
+•	Frameworks: Bootstrap, React.js, Next.js, Node.js, Pandas
+•	Backend: Flask, REST APIs, API Integration, Web Services
+•	Databases: PostgreSQL, MySQL, MongoDB
+•	Tools: Git, Docker (basic), CLI, VS Code
+•	Cloud: AWS, Google Cloud Platform
+•	Concepts: OOP, modular design, algorithmic thinking
 
 ---
 
