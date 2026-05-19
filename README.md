@@ -35,11 +35,17 @@ https://github.com/godmode25/CCE512-Chess-Website
 ## Tech Stack
 
 •	Languages: Python, JavaScript, SQL, MQL4/5, HTML5, CSS3, Tailwind, Typescript
+
 •	Frameworks: Bootstrap, React.js, Next.js, Node.js, Pandas
+
 •	Backend: Flask, REST APIs, API Integration, Web Services
+
 •	Databases: PostgreSQL, MySQL, MongoDB
+
 •	Tools: Git, Docker (basic), CLI, VS Code
+
 •	Cloud: AWS, Google Cloud Platform
+
 •	Concepts: OOP, modular design, algorithmic thinking
 
 ---
@@ -56,4 +62,5 @@ I prefer building structured, functional systems rather than isolated scripts. M
 ## Contact
 
 GitHub: https://github.com/godmode25
+
 E-mail: musasamuel147@gmail.com
