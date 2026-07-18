@@ -18,6 +18,11 @@ I focus on building usable software systems, simulations, and tools that solve r
 
 ## Featured Projects
 
+### OE Chess Lab
+A premium, interactive chess study web application featuring a schema-validated 7-tier opening curriculum, off-thread Stockfish WASM analysis, and a custom spaced-repetition training engine.
+- GitHub: https://github.com/godmode25/lotus-chess-clone
+- Demo: https://lotus-chess-clone-project.vercel.app
+
 ### Calculator Suite
 Modular multi-tool calculator system with separated logic layers and extensible design.
 https://github.com/godmode25/calculator_suite
